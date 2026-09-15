@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://test.sitecollab.co.uk/sitemap.xml
